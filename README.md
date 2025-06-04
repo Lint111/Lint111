@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently studing at DAE (Digital art and Entertainment) 
+I'm currently studying at DAE (Digital Art and Entertainment)
 
 <!--
 **Lint111/Lint111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
